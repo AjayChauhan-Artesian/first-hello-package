@@ -1,0 +1,25 @@
+{
+  "name": "first-hello-package",
+  "version": "1.0.0",
+  "description": "This is first hello package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjayChauhan-Artesian/first-hello-package.git"
+  },
+  "keywords": [
+    "first",
+    "npm",
+    "package",
+    "helllo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjayChauhan-Artesian/first-hello-package/issues"
+  },
+  "homepage": "https://github.com/AjayChauhan-Artesian/first-hello-package#readme"
+}
